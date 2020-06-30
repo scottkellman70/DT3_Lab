@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DT3_Lab", "DT3_Lab.csproj", "{904CF2C5-1970-4803-A344-26240A0B5C90}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DT3Lab_Db_Project", "..\DT3Lab_Db_Project\DT3Lab_Db_Project.sqlproj", "{612820F7-D54C-4E2E-8BC4-55594A4ACE07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{904CF2C5-1970-4803-A344-26240A0B5C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904CF2C5-1970-4803-A344-26240A0B5C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904CF2C5-1970-4803-A344-26240A0B5C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612820F7-D54C-4E2E-8BC4-55594A4ACE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612820F7-D54C-4E2E-8BC4-55594A4ACE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612820F7-D54C-4E2E-8BC4-55594A4ACE07}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{612820F7-D54C-4E2E-8BC4-55594A4ACE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612820F7-D54C-4E2E-8BC4-55594A4ACE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612820F7-D54C-4E2E-8BC4-55594A4ACE07}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
